@@ -22,5 +22,5 @@ secret-combine share.001 share.002 share.003
 
 ## License
 
-Original C implementation by Daniel Silverstone
+Original C implementation by Daniel Silverstone.  
 [ISC](LICENSE.md)
