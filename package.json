@@ -1,0 +1,36 @@
+{
+  "name": "secret-share",
+  "version": "0.0.0",
+  "description": "Split secrets for secure sharing! Pure JavaScript implementation of libgfshare",
+  "main": "index.js",
+  "bin": {
+    "secret-split": "./bin/secret-split",
+    "secret-combine": "./bin/secret-combine"
+  },
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/emilbayes/secret-share.git"
+  },
+  "keywords": [
+    "gfshare",
+    "gf",
+    "shamir",
+    "secure",
+    "secret",
+    "split",
+    "combine",
+    "recombine",
+    "galois",
+    "field",
+    "buffer"
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/secret-share/issues"
+  },
+  "homepage": "https://github.com/emilbayes/secret-share#readme"
+}
